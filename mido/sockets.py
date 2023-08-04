@@ -159,4 +159,4 @@ def parse_address(address):
 
 
 def format_address(host, portno):
-    return f'{host}{portno:d}'
+    return f'{host}'
